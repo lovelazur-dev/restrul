@@ -1,4 +1,4 @@
-package com.lovelazur.restrul;
+package com.lovelazur.restrul.helloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

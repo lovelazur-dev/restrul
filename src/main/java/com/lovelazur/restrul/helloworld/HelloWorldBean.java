@@ -1,4 +1,4 @@
-package com.lovelazur.restrul;
+package com.lovelazur.restrul.helloworld;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
