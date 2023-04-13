@@ -1,6 +1,5 @@
-package user;
+package com.lovelazur.restrul.user;
 
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

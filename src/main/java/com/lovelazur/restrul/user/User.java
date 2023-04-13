@@ -1,4 +1,4 @@
-package user;
+package com.lovelazur.restrul.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
