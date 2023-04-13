@@ -9,4 +9,12 @@ public class HelloWorldController {
     public String getHelloWorld(){
         return "Hello World !!";
     }
+
+    @GetMapping(path="/hello-world-bean")
+    public HelloWorldBean getHelloWorldBean(){
+        return new HelloWorldBean("Hello World Bean");
+    }
+
+
+
 }
